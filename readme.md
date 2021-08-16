@@ -4,4 +4,5 @@ validados por el juez de la web (lo cual no quiere decir que no sean mejorables)
 
 ## Tabla de problemas
 | Problema | Nombre | Enlace
-| 100 | [Constante de Kaprekar] | [ej100.java]
+|--|--|--|
+| 100 | [Constante de Kaprekar] | [ej100.java](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej100.java)
