@@ -6,3 +6,4 @@ validados por el juez de la web (lo cual no quiere decir que no sean mejorables)
 | Problema | Nombre | Enlace
 |--|--|--|
 | 100 | Constante de Kaprekar | [ej100](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej100.java)
+| 101 | Cuadrados diabólicos y esotéricos | [ej101](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej101.java)
