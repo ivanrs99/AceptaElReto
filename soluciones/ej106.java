@@ -1,11 +1,9 @@
-package ej100_110;
-
 import java.util.Scanner;
 
 public class ej106 {
 
     static Scanner sc = new Scanner(System.in);
-
+    
     public static void main(String[] args) {
         while (true) {
             String codigo = sc.nextLine();

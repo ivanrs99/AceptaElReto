@@ -1,5 +1,3 @@
-package ej100_110;
-
 import java.util.HashMap;
 import java.util.Locale;
 import java.util.Map;

@@ -1,5 +1,3 @@
-package ej100_110;
-
 import java.util.Scanner;
 
 public class ej103 {
