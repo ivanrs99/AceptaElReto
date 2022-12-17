@@ -1,6 +1,5 @@
 # Problemas resueltos de la página Acepta el Reto
-En este repositorio subiré poco a poco las soluciones en JAVA de los ejercicios que voy haciendo. Procuraré no saltarme ninguno. Todos los ejercicios subidos han sido
-validados por el juez de la web (lo cual no quiere decir que no sean mejorables). 
+En este repositorio subiré poco a poco las soluciones en JAVA de los ejercicios que voy haciendo. Procuraré no saltarme ninguno. Todos los ejercicios subidos han sido validados por el juez de la web (lo cual no quiere decir que no sean mejorables). 
 
 ## Tabla de problemas
 | Problema | Nombre | Enlace
@@ -18,3 +17,4 @@ validados por el juez de la web (lo cual no quiere decir que no sean mejorables)
 | 110 | [Estrofas](https://www.aceptaelreto.com/problem/statement.php?id=110) | [ej110](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej110.java)
 | 111 | [Aprobar química](https://www.aceptaelreto.com/problem/statement.php?id=111) | [ej111](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej111.java)
 | 112 | [Radares de tramo](https://www.aceptaelreto.com/problem/statement.php?id=112) | [ej112](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej112.java)
+| 113 | [Semáforos sin parar](https://www.aceptaelreto.com/problem/statement.php?id=113 | [ej112](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej113.java)
