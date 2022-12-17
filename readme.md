@@ -19,3 +19,5 @@ En este repositorio subiré poco a poco las soluciones en JAVA de los ejercicios
 | 112 | [Radares de tramo](https://www.aceptaelreto.com/problem/statement.php?id=112) | [ej112](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej112.java)
 | 113 | [Semáforos sin parar](https://www.aceptaelreto.com/problem/statement.php?id=113) | [ej113](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej113.java)
 | 114 | [Último dígito del factorial](https://www.aceptaelreto.com/problem/statement.php?id=114) | [ej114](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej114.java)
+| 115 | [Número de Kaprekar](https://www.aceptaelreto.com/problem/statement.php?id=115) | [ej115](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej115.java)
+| 116 | [¡Hola mundo!](https://www.aceptaelreto.com/problem/statement.php?id=116) | [ej116](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej116.java)
