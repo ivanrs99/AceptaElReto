@@ -18,3 +18,4 @@ En este repositorio subiré poco a poco las soluciones en JAVA de los ejercicios
 | 111 | [Aprobar química](https://www.aceptaelreto.com/problem/statement.php?id=111) | [ej111](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej111.java)
 | 112 | [Radares de tramo](https://www.aceptaelreto.com/problem/statement.php?id=112) | [ej112](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej112.java)
 | 113 | [Semáforos sin parar](https://www.aceptaelreto.com/problem/statement.php?id=113) | [ej113](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej113.java)
+| 114 | [Último dígito del factorial](https://www.aceptaelreto.com/problem/statement.php?id=114) | [ej114](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej114.java)
