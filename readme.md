@@ -17,4 +17,4 @@ En este repositorio subiré poco a poco las soluciones en JAVA de los ejercicios
 | 110 | [Estrofas](https://www.aceptaelreto.com/problem/statement.php?id=110) | [ej110](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej110.java)
 | 111 | [Aprobar química](https://www.aceptaelreto.com/problem/statement.php?id=111) | [ej111](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej111.java)
 | 112 | [Radares de tramo](https://www.aceptaelreto.com/problem/statement.php?id=112) | [ej112](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej112.java)
-| 113 | [Semáforos sin parar](https://www.aceptaelreto.com/problem/statement.php?id=113 | [ej112](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej113.java)
+| 113 | [Semáforos sin parar](https://www.aceptaelreto.com/problem/statement.php?id=113) | [ej112](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej113.java)
