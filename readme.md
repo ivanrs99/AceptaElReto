@@ -22,3 +22,4 @@ En este repositorio subiré poco a poco las soluciones en JAVA de los ejercicios
 | 115 | [Número de Kaprekar](https://www.aceptaelreto.com/problem/statement.php?id=115) | [ej115](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej115.java)
 | 116 | [¡Hola mundo!](https://www.aceptaelreto.com/problem/statement.php?id=116) | [ej116](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej116.java)
 | 117 | [La fiesta aburrida](https://www.aceptaelreto.com/problem/statement.php?id=117) | [ej117](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej117.java)
+| 119 | [Escudos del ejército romano](https://www.aceptaelreto.com/problem/statement.php?id=119) | [ej119](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej119.java)
