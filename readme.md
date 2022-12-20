@@ -1,5 +1,6 @@
-# Problemas resueltos de la página Acepta el Reto
+# Problemas resueltos de Acepta el Reto
 En este repositorio subiré poco a poco las soluciones en JAVA de los ejercicios que voy haciendo. Procuraré no saltarme ninguno. Todos los ejercicios subidos han sido validados por el juez de la web (lo cual no quiere decir que no sean mejorables). 
+Pulsa [aquí](https://www.aceptaelreto.com/user/profile.php?id=8299) para ver mi perfil en la web.
 
 ## Tabla de problemas
 | Problema | Nombre | Enlace
