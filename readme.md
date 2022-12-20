@@ -29,6 +29,7 @@ Pulsa [aquí](https://www.aceptaelreto.com/user/profile.php?id=8299) para ver mi
 | 148 | [Nochevieja](https://www.aceptaelreto.com/problem/statement.php?id=148) | [ej148](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej148.java)
 | 149 | [San Fermines](https://www.aceptaelreto.com/problem/statement.php?id=149) | [ej149](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej149.java)
 | 155 | [Perímetro de un rectángulo](https://www.aceptaelreto.com/problem/statement.php?id=155) | [ej155](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej155.java)
+| 157 | [¿Cuantos días faltan?](https://www.aceptaelreto.com/problem/statement.php?id=157) | [ej157](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej157.java)
 | 167 | [Pintando fractales](https://www.aceptaelreto.com/problem/statement.php?id=167) | [ej167](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej167.java)
 | 175 | [Manías tenemos todos](https://www.aceptaelreto.com/problem/statement.php?id=175) | [ej175](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej175.java)
 | 600 | [Puntos de silla](https://www.aceptaelreto.com/problem/statement.php?id=600) | [ej600](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej600.java)
