@@ -34,6 +34,7 @@ Pulsa [aquí](https://www.aceptaelreto.com/user/profile.php?id=8299) para ver mi
 | 157 | [¿Cuantos días faltan?](https://www.aceptaelreto.com/problem/statement.php?id=157) | [ej157](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej157.java)
 | 167 | [Pintando fractales](https://www.aceptaelreto.com/problem/statement.php?id=167) | [ej167](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej167.java)
 | 175 | [Manías tenemos todos](https://www.aceptaelreto.com/problem/statement.php?id=175) | [ej175](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej175.java)
+| 193 | [Números reversibles](https://www.aceptaelreto.com/problem/statement.php?id=193) | [ej193](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej193.java)
 | 600 | [Puntos de silla](https://www.aceptaelreto.com/problem/statement.php?id=600) | [ej600](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej600.java)
 | 612 | [Punto dentro de círculos](https://www.aceptaelreto.com/problem/statement.php?id=612) | [ej612](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej612.java)
 | 621 | [La otra página](https://www.aceptaelreto.com/problem/statement.php?id=621) | [ej621](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej621.java)
