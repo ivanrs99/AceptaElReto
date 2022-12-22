@@ -26,6 +26,7 @@ Pulsa [aquí](https://www.aceptaelreto.com/user/profile.php?id=8299) para ver mi
 | 119 | [Escudos del ejército romano](https://www.aceptaelreto.com/problem/statement.php?id=119) | [ej119](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej119.java)
 | 120 | [Constante mágica](https://www.aceptaelreto.com/problem/statement.php?id=120) | [ej120](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej120.java)
 | 124 | [¿Cuántas me llevo?](https://www.aceptaelreto.com/problem/statement.php?id=124) | [ej124](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej124.java)
+| 127 | [Una, dola, tela, catola...](https://www.aceptaelreto.com/problem/statement.php?id=127) | [ej127](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej127.java)
 | 129 | [Marcadores de 7 segmentos](https://www.aceptaelreto.com/problem/statement.php?id=129) | [ej129](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej129.java)
 | 148 | [Nochevieja](https://www.aceptaelreto.com/problem/statement.php?id=148) | [ej148](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej148.java)
 | 149 | [San Fermines](https://www.aceptaelreto.com/problem/statement.php?id=149) | [ej149](https://github.com/ivanrs99/AceptaElReto/blob/master/soluciones/ej149.java)
