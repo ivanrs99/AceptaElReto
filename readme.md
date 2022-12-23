@@ -36,6 +36,7 @@ Pulsa [aquí](https://www.aceptaelreto.com/user/profile.php?id=8299) para ver mi
 | 167 | [Pintando fractales](https://www.aceptaelreto.com/problem/statement.php?id=167) | [ej167](soluciones/Volumen%201/ej167.java)
 | 175 | [Manías tenemos todos](https://www.aceptaelreto.com/problem/statement.php?id=175) | [ej175](soluciones/Volumen%201/ej175.java)
 | 193 | [Números reversibles](https://www.aceptaelreto.com/problem/statement.php?id=193) | [ej193](soluciones/Volumen%201/ej193.java)
+| 313 | [Fin de mes](https://www.aceptaelreto.com/problem/statement.php?id=313) | [ej313](soluciones/Volumen%203/ej313.java)
 | 600 | [Puntos de silla](https://www.aceptaelreto.com/problem/statement.php?id=600) | [ej600](soluciones/Volumen%206//ej600.java)
 | 612 | [Punto dentro de círculos](https://www.aceptaelreto.com/problem/statement.php?id=612) | [ej612](soluciones/Volumen%206//ej612.java)
 | 621 | [La otra página](https://www.aceptaelreto.com/problem/statement.php?id=621) | [ej621](soluciones/Volumen%206//ej621.java)
