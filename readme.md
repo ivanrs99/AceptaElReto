@@ -43,6 +43,7 @@ Pulsa [aquí](https://www.aceptaelreto.com/user/profile.php?id=8299) para ver mi
 | 360 | [Rellenando el agua de la fuente](https://www.aceptaelreto.com/problem/statement.php?id=360) | [ej360](soluciones/Volumen%203/ej360.java)
 | 380 | [¡Me caso!](https://www.aceptaelreto.com/problem/statement.php?id=380) | [ej380](soluciones/Volumen%203/ej380.java)
 | 400 | [Durmiendo en albergues](https://www.aceptaelreto.com/problem/statement.php?id=400) | [ej400](soluciones/Volumen%204/ej400.java)
+| 500 | [Votaciones capicúa](https://www.aceptaelreto.com/problem/statement.php?id=500) | [ej500](soluciones/Volumen%205/ej500.java)
 | 600 | [Puntos de silla](https://www.aceptaelreto.com/problem/statement.php?id=600) | [ej600](soluciones/Volumen%206//ej600.java)
 | 612 | [Punto dentro de círculos](https://www.aceptaelreto.com/problem/statement.php?id=612) | [ej612](soluciones/Volumen%206//ej612.java)
 | 621 | [La otra página](https://www.aceptaelreto.com/problem/statement.php?id=621) | [ej621](soluciones/Volumen%206//ej621.java)
