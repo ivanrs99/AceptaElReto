@@ -37,6 +37,7 @@ Se agradecen estrellas para ver que las soluciones están llegando a la gente y 
 | 151 | [¿Es matriz identidad?](https://www.aceptaelreto.com/problem/statement.php?id=151) | [ej151](soluciones/Volumen%201/ej151.java)
 | 155 | [Perímetro de un rectángulo](https://www.aceptaelreto.com/problem/statement.php?id=155) | [ej155](soluciones/Volumen%201/ej155.java)
 | 157 | [¿Cuantos días faltan?](https://www.aceptaelreto.com/problem/statement.php?id=157) | [ej157](soluciones/Volumen%201/ej157.java)
+| 164 | [Área de un rectángulo](https://www.aceptaelreto.com/problem/statement.php?id=164) | [ej164](soluciones/Volumen%201/ej164.java)
 | 167 | [Pintando fractales](https://www.aceptaelreto.com/problem/statement.php?id=167) | [ej167](soluciones/Volumen%201/ej167.java)
 | 175 | [Manías tenemos todos](https://www.aceptaelreto.com/problem/statement.php?id=175) | [ej175](soluciones/Volumen%201/ej175.java)
 | 193 | [Números reversibles](https://www.aceptaelreto.com/problem/statement.php?id=193) | [ej193](soluciones/Volumen%201/ej193.java)
