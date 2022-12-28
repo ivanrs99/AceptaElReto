@@ -2,6 +2,8 @@
 En este repositorio subiré poco a poco las soluciones en JAVA de los ejercicios que voy haciendo. Procuraré no saltarme ninguno. Todos los ejercicios subidos han sido validados por el juez de la web (lo cual no quiere decir que no sean mejorables). 
 Pulsa [aquí](https://www.aceptaelreto.com/user/profile.php?id=8299) para ver mi perfil en la web.
 
+Se agradecen estrellas para ver que las soluciones están llegando a la gente y les ayuda a poder resolver estos ejercicios!
+
 ## Tabla de problemas
 | Problema | Nombre | Enlace
 |--|--|--|
@@ -23,6 +25,7 @@ Pulsa [aquí](https://www.aceptaelreto.com/user/profile.php?id=8299) para ver mi
 | 115 | [Número de Kaprekar](https://www.aceptaelreto.com/problem/statement.php?id=115) | [ej115](soluciones/Volumen%201/ej115.java)
 | 116 | [¡Hola mundo!](https://www.aceptaelreto.com/problem/statement.php?id=116) | [ej116](soluciones/Volumen%201/ej116.java)
 | 117 | [La fiesta aburrida](https://www.aceptaelreto.com/problem/statement.php?id=117) | [ej117](soluciones/Volumen%201/ej117.java)
+| 118 | [Apuesta con recetas](https://www.aceptaelreto.com/problem/statement.php?id=118) | [ej118](soluciones/Volumen%201/ej118.java)
 | 119 | [Escudos del ejército romano](https://www.aceptaelreto.com/problem/statement.php?id=119) | [ej119](soluciones/Volumen%201/ej119.java)
 | 120 | [Constante mágica](https://www.aceptaelreto.com/problem/statement.php?id=120) | [ej120](soluciones/Volumen%201/ej120.java)
 | 124 | [¿Cuántas me llevo?](https://www.aceptaelreto.com/problem/statement.php?id=124) | [ej124](soluciones/Volumen%201/ej124.java)
