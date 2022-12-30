@@ -52,6 +52,7 @@ Se agradecen estrellas para ver que las soluciones están llegando a la gente y 
 | 506 | [Tensión descompensada](https://www.aceptaelreto.com/problem/statement.php?id=506) | [ej506](soluciones/Volumen%205/ej506.java)
 | 600 | [Puntos de silla](https://www.aceptaelreto.com/problem/statement.php?id=600) | [ej600](soluciones/Volumen%206/ej600.java)
 | 605 | [Ordenando el armario](https://www.aceptaelreto.com/problem/statement.php?id=605) | [ej605](soluciones/Volumen%206/ej605.java)
+| 607 | [Minimizando el castigo](https://www.aceptaelreto.com/problem/statement.php?id=607) | [ej607](soluciones/Volumen%206/ej607.java)
 | 608 | [Peligro por hielo](https://www.aceptaelreto.com/problem/statement.php?id=608) | [ej608](soluciones/Volumen%206/ej608.java)
 | 612 | [Punto dentro de círculos](https://www.aceptaelreto.com/problem/statement.php?id=612) | [ej612](soluciones/Volumen%206/ej612.java)
 | 616 | [Pic, poc, pic... pong!](https://www.aceptaelreto.com/problem/statement.php?id=616) | [ej616](soluciones/Volumen%206/ej616.java)
