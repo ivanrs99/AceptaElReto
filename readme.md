@@ -51,5 +51,6 @@ Se agradecen estrellas para ver que las soluciones están llegando a la gente y 
 | 500 | [Votaciones capicúa](https://www.aceptaelreto.com/problem/statement.php?id=500) | [ej500](soluciones/Volumen%205/ej500.java)
 | 506 | [Tensión descompensada](https://www.aceptaelreto.com/problem/statement.php?id=506) | [ej506](soluciones/Volumen%205/ej506.java)
 | 600 | [Puntos de silla](https://www.aceptaelreto.com/problem/statement.php?id=600) | [ej600](soluciones/Volumen%206//ej600.java)
+| 608 | [Peligro por hielo](https://www.aceptaelreto.com/problem/statement.php?id=608) | [ej608](soluciones/Volumen%206//ej608.java)
 | 612 | [Punto dentro de círculos](https://www.aceptaelreto.com/problem/statement.php?id=612) | [ej612](soluciones/Volumen%206//ej612.java)
 | 621 | [La otra página](https://www.aceptaelreto.com/problem/statement.php?id=621) | [ej621](soluciones/Volumen%206//ej621.java)
