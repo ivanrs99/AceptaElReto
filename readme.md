@@ -58,3 +58,8 @@ Se agradecen estrellas para ver que las soluciones están llegando a la gente y 
 | 616 | [Pic, poc, pic... pong!](https://www.aceptaelreto.com/problem/statement.php?id=616) | [ej616](soluciones/Volumen%206/ej616.java)
 | 621 | [La otra página](https://www.aceptaelreto.com/problem/statement.php?id=621) | [ej621](soluciones/Volumen%206/ej621.java)
 | 622 | [La media prometida](https://www.aceptaelreto.com/problem/statement.php?id=622) | [ej622](soluciones/Volumen%206/ej622.java)
+| 663 | [Contando desde el cero](https://www.aceptaelreto.com/problem/statement.php?id=663) | [ej663](soluciones/Volumen%206/ej663.java)
+| 664 | [Gálibo](https://www.aceptaelreto.com/problem/statement.php?id=664) | [ej664](soluciones/Volumen%206/ej664.java)
+| 665 | [SemVer++](https://www.aceptaelreto.com/problem/statement.php?id=665) | [ej665](soluciones/Volumen%206/ej665.java)
+| 666 | [Yo lo coloco](https://www.aceptaelreto.com/problem/statement.php?id=666) | [ej666](soluciones/Volumen%206/ej666.java)
+| 667 | [Pipos](https://www.aceptaelreto.com/problem/statement.php?id=667) | [ej667](soluciones/Volumen%206/ej667.java)
