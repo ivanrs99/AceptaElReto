@@ -1,5 +1,5 @@
 # Problemas resueltos de Acepta el Reto
-En este repositorio subiré poco a poco las soluciones en JAVA de los ejercicios que voy haciendo. Procuraré no saltarme ninguno. Todos los ejercicios subidos han sido validados por el juez de la web (lo cual no quiere decir que no sean mejorables). 
+En este repositorio subiré poco a poco las soluciones en JAVA de los ejercicios que voy haciendo. Todos los ejercicios subidos han sido validados por el juez de la web (lo cual no quiere decir que no sean mejorables). 
 Pulsa [aquí](https://www.aceptaelreto.com/user/profile.php?id=8299) para ver mi perfil en la web.
 
 Se agradecen estrellas para ver que las soluciones están llegando a la gente y les ayuda a poder resolver estos ejercicios!
@@ -59,6 +59,8 @@ Se agradecen estrellas para ver que las soluciones están llegando a la gente y 
 | 616 | [Pic, poc, pic... pong!](https://www.aceptaelreto.com/problem/statement.php?id=616) | [ej616](soluciones/Volumen%206/ej616.java)
 | 621 | [La otra página](https://www.aceptaelreto.com/problem/statement.php?id=621) | [ej621](soluciones/Volumen%206/ej621.java)
 | 622 | [La media prometida](https://www.aceptaelreto.com/problem/statement.php?id=622) | [ej622](soluciones/Volumen%206/ej622.java)
+| 623 | [El Joker de la Primitiva](https://www.aceptaelreto.com/problem/statement.php?id=623) | [ej623](soluciones/Volumen%206/ej623.java)
+| 635 | [Cinquecento](https://www.aceptaelreto.com/problem/statement.php?id=635) | [ej635](soluciones/Volumen%206/ej635.java)
 | 663 | [Contando desde el cero](https://www.aceptaelreto.com/problem/statement.php?id=663) | [ej663](soluciones/Volumen%206/ej663.java)
 | 664 | [Gálibo](https://www.aceptaelreto.com/problem/statement.php?id=664) | [ej664](soluciones/Volumen%206/ej664.java)
 | 665 | [SemVer++](https://www.aceptaelreto.com/problem/statement.php?id=665) | [ej665](soluciones/Volumen%206/ej665.java)
