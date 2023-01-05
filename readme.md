@@ -33,6 +33,7 @@ Se agradecen estrellas para ver que las soluciones están llegando a la gente y 
 | 128 | [Florencia](https://www.aceptaelreto.com/problem/statement.php?id=128) | [ej128](soluciones/Volumen%201/ej128.java)
 | 129 | [Marcadores de 7 segmentos](https://www.aceptaelreto.com/problem/statement.php?id=129) | [ej129](soluciones/Volumen%201/ej129.java)
 | 140 | [Suma de dígitos](https://www.aceptaelreto.com/problem/statement.php?id=140) | [ej140](soluciones/Volumen%201/ej140.java)
+| 143 | [Tortitas](https://www.aceptaelreto.com/problem/statement.php?id=143) | [ej143](soluciones/Volumen%201/ej143.java)
 | 148 | [Nochevieja](https://www.aceptaelreto.com/problem/statement.php?id=148) | [ej148](soluciones/Volumen%201/ej148.java)
 | 149 | [San Fermines](https://www.aceptaelreto.com/problem/statement.php?id=149) | [ej149](soluciones/Volumen%201/ej149.java)
 | 151 | [¿Es matriz identidad?](https://www.aceptaelreto.com/problem/statement.php?id=151) | [ej151](soluciones/Volumen%201/ej151.java)
