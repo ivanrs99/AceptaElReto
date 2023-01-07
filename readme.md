@@ -45,6 +45,7 @@ Se agradecen estrellas para ver que las soluciones están llegando a la gente y 
 | 193 | [Números reversibles](https://www.aceptaelreto.com/problem/statement.php?id=193) | [ej193](soluciones/Volumen%201/ej193.java)
 | 200 | [Árboles de Fibonacci](https://www.aceptaelreto.com/problem/statement.php?id=200) | [ej200](soluciones/Volumen%202/ej200.java)
 | 214 | [Abdicación de un Rey](https://www.aceptaelreto.com/problem/statement.php?id=214) | [ej214](soluciones/Volumen%202/ej214.java)
+| 217 | [¿Qué lado de la calle?](https://www.aceptaelreto.com/problem/statement.php?id=217) | [ej217](soluciones/Volumen%202/ej217.java)
 | 300 | [Palabras pentavocálicas](https://www.aceptaelreto.com/problem/statement.php?id=300) | [ej300](soluciones/Volumen%203/ej300.java)
 | 313 | [Fin de mes](https://www.aceptaelreto.com/problem/statement.php?id=313) | [ej313](soluciones/Volumen%203/ej313.java)
 | 340 | [Cuadrados con cerillas](https://www.aceptaelreto.com/problem/statement.php?id=340) | [ej340](soluciones/Volumen%203/ej340.java)
