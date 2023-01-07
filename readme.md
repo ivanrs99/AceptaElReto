@@ -47,6 +47,7 @@ Se agradecen estrellas para ver que las soluciones están llegando a la gente y 
 | 214 | [Abdicación de un Rey](https://www.aceptaelreto.com/problem/statement.php?id=214) | [ej214](soluciones/Volumen%202/ej214.java)
 | 300 | [Palabras pentavocálicas](https://www.aceptaelreto.com/problem/statement.php?id=300) | [ej300](soluciones/Volumen%203/ej300.java)
 | 313 | [Fin de mes](https://www.aceptaelreto.com/problem/statement.php?id=313) | [ej313](soluciones/Volumen%203/ej313.java)
+| 340 | [Cuadrados con cerillas](https://www.aceptaelreto.com/problem/statement.php?id=340) | [ej340](soluciones/Volumen%203/ej340.java)
 | 360 | [Rellenando el agua de la fuente](https://www.aceptaelreto.com/problem/statement.php?id=360) | [ej360](soluciones/Volumen%203/ej360.java)
 | 380 | [¡Me caso!](https://www.aceptaelreto.com/problem/statement.php?id=380) | [ej380](soluciones/Volumen%203/ej380.java)
 | 400 | [Durmiendo en albergues](https://www.aceptaelreto.com/problem/statement.php?id=400) | [ej400](soluciones/Volumen%204/ej400.java)
