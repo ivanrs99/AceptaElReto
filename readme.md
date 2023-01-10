@@ -64,6 +64,7 @@ Se agradecen estrellas para ver que las soluciones están llegando a la gente y 
 | 608 | [Peligro por hielo](https://www.aceptaelreto.com/problem/statement.php?id=608) | [ej608](soluciones/Volumen%206/ej608.java)
 | 612 | [Punto dentro de círculos](https://www.aceptaelreto.com/problem/statement.php?id=612) | [ej612](soluciones/Volumen%206/ej612.java)
 | 616 | [Pic, poc, pic... pong!](https://www.aceptaelreto.com/problem/statement.php?id=616) | [ej616](soluciones/Volumen%206/ej616.java)
+| 617 | [Mensajes en Space Invaders](https://www.aceptaelreto.com/problem/statement.php?id=617) | [ej617](soluciones/Volumen%206/ej617.java)
 | 621 | [La otra página](https://www.aceptaelreto.com/problem/statement.php?id=621) | [ej621](soluciones/Volumen%206/ej621.java)
 | 622 | [La media prometida](https://www.aceptaelreto.com/problem/statement.php?id=622) | [ej622](soluciones/Volumen%206/ej622.java)
 | 623 | [El Joker de la Primitiva](https://www.aceptaelreto.com/problem/statement.php?id=623) | [ej623](soluciones/Volumen%206/ej623.java)
