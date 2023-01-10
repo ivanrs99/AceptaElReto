@@ -56,6 +56,8 @@ Se agradecen estrellas para ver que las soluciones están llegando a la gente y 
 | 407 | [Rebotando en el parchís](https://www.aceptaelreto.com/problem/statement.php?id=407) | [ej407](soluciones/Volumen%204/ej407.java)
 | 500 | [Votaciones capicúa](https://www.aceptaelreto.com/problem/statement.php?id=500) | [ej500](soluciones/Volumen%205/ej500.java)
 | 506 | [Tensión descompensada](https://www.aceptaelreto.com/problem/statement.php?id=506) | [ej506](soluciones/Volumen%205/ej506.java)
+| 512 | [Döner sospechoso](https://www.aceptaelreto.com/problem/statement.php?id=512) | [ej512](soluciones/Volumen%205/ej512.java)
+| 515 | [Poniendo la mesa](https://www.aceptaelreto.com/problem/statement.php?id=515) | [ej515](soluciones/Volumen%205/ej515.java)
 | 600 | [Puntos de silla](https://www.aceptaelreto.com/problem/statement.php?id=600) | [ej600](soluciones/Volumen%206/ej600.java)
 | 605 | [Ordenando el armario](https://www.aceptaelreto.com/problem/statement.php?id=605) | [ej605](soluciones/Volumen%206/ej605.java)
 | 607 | [Minimizando el castigo](https://www.aceptaelreto.com/problem/statement.php?id=607) | [ej607](soluciones/Volumen%206/ej607.java)
