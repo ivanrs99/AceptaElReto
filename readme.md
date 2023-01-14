@@ -77,3 +77,4 @@ Se agradecen estrellas para ver que las soluciones están llegando a la gente y 
 | 666 | [Yo lo coloco](https://www.aceptaelreto.com/problem/statement.php?id=666) | [ej666](soluciones/Volumen%206/ej666.java)
 | 667 | [Pipos](https://www.aceptaelreto.com/problem/statement.php?id=667) | [ej667](soluciones/Volumen%206/ej667.java)
 | 668 | [Restanacci](https://www.aceptaelreto.com/problem/statement.php?id=668) | [ej668](soluciones/Volumen%206/ej668.java)
+| 671 | [Abuelos felices](https://www.aceptaelreto.com/problem/statement.php?id=671) | [ej671](soluciones/Volumen%206/ej671.java)
